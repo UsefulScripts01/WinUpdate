@@ -1,5 +1,5 @@
 # WinUpdate
 
-# Usage
+### Usage
 * download repo
 * run .bat file as admin
